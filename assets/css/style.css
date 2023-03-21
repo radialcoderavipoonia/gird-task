@@ -310,6 +310,12 @@
 .pb_35{
     padding-bottom: 35px;
 }
+.h_100{
+    height: 100%;
+} 
+.object_cover{
+    object-fit: cover;
+}
 
 @media (max-width:992px) {
     .griditem1 {
